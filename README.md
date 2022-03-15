@@ -12,14 +12,16 @@
 
 ---
 ## Description
-
+```
 Git-it-Done is an app that allows the user to search GitHub for projects to contribute to. It allows you to search by username, or simply by one of three languages (JavaScript, HTML, or CSS).
+```
 ---
 
 ---
 ## Installation
-
+```
 No install required. Simply go to the url.
+```
 ---
 
 ---
